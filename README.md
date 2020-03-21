@@ -2,7 +2,7 @@
 
 This comprehensive **English-Korean** dictionary contains words, phrases, abbreviations & acronyms. It includes terms from a vast variety of subjects, such as Medicine, Electronics, Zoology, Business, Computers, Religion, etc., and features both the American and British forms of spelling.
 
-![bek]()
+![bek](https://raw.githubusercontent.com/dolanskurd/Babylon-English-Korean/master/img/Babylon_English_Korean.png)
 
 ## Installation
 
@@ -40,17 +40,17 @@ Download and install the required and recommended software / apps for using `MDi
 
 ## Screenshots
 
-![bek1]()
+![bek1](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/IMG_E0400.JPG)
 
-![bek2]()
+![bek2](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/IMG_E0401.JPG)
 
-![bek3]()
+![bek3](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/IMG_E0402.JPG)
 
-![bek4]()
+![bek4](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/01.png)
 
-![bek5]()
+![bek5](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/02.png)
 
-![bek6]()
+![bek6](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/img/Screenshots/03.png)
 
 ## Dictionary Files
 
@@ -62,13 +62,13 @@ Note:
 
 - **CSS** **file** **SHOULD NOT be renamed**
 
-[Download MDX](https://github.com/dolanskurd/E2K2E/blob/master/E2K2E.mdx)
+[Download MDX](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/Babylon_English_Korean.mdx)
 
 Download MDD (N/A)
 
-[Download CSS](https://github.com/dolanskurd/E2K2E/blob/master/E2K2E.css)
+[Download CSS](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/bek.css)
 
-[Download Dictionary Icon](https://github.com/dolanskurd/E2K2E/blob/master/img/E2K2E.png)
+[Download Dictionary Icon](https://github.com/dolanskurd/Babylon-English-Korean/blob/master/Babylon_English_Korean.png)
 
 ## Usage Instructions
 
